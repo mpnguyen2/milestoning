@@ -1,5 +1,5 @@
-# milestoning
-This project develop a domain decomposition approach that is equivalent to Milestoning method in molecular dynamics
+# Domain Decomposition and Milestoning methods
+This project develops a domain decomposition approach that is equivalent to Milestoning method in molecular dynamics
 
 1. Files description:
 
